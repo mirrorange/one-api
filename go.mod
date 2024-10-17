@@ -1,6 +1,5 @@
 module one-api
 
-// +heroku goVersion go1.18
 go 1.23
 
 toolchain go1.23.2
